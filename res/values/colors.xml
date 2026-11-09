@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0A0D12</color>
+    <color name="bgElev">#0E131B</color>
+    <color name="surface">#141A23</color>
+    <color name="stroke">#202836</color>
+    <color name="divider">#1A2130</color>
+    <color name="text">#EDF1F7</color>
+    <color name="textDim">#8A94A6</color>
+    <color name="textFaint">#5A6474</color>
+    <color name="gold">#D9A85C</color>
+    <color name="blue">#71A9C8</color>
+    <color name="purple">#9B93B8</color>
+    <color name="red">#C8604D</color>
+</resources>
